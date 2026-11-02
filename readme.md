@@ -32,7 +32,7 @@ ecommerce-analytics/
 ## 🔧 Setup & Installation
 1. Clone the repository:
    
-   git clone https://github.com/manya12sharma/ecommerce_analytics.git
+   git clone https://github.com/yogendhra15/-E-Commerce-Sales-Analytics-Dashboard
    
    cd ecommerce_analytics
    
